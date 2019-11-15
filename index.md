@@ -18,8 +18,8 @@ But even inside of the industry, there are many people who have no idea, how som
 
 You know how this work:
 
-BA: Hey, I think we should tweak the flubbers so customer gets the report quicker.\
-IT: What?\
+BA: Hey, I think we should tweak the flubbers so customer gets the report quicker.  
+IT: What?  
 BA: You know, flubbers ... increase them ... maybe ..?\
 IT: No ... please stop ...\
 BA: Flub...\
