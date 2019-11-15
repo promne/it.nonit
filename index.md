@@ -17,12 +17,15 @@ Communication is crucial.
 But even inside of the industry, there are many people who have no idea, how some things work. I got it, why should they – it’s my bread and butter to understand how computer works. Not theirs. How can we find a common ground to discuss problems and reach solutions? How to bridge the gap between technical and non-technical worlds?
 
 You know how this work:
-BA: Hey, I think we should tweak the flubbers so customer gets the report quicker.
-IT: What?
-BA: You know, flubbers ... increase maybe ..?
-IT: No .. please stop ...
-BA: Flub...
-IT: There is no such thing and you have obviously no idea how computer works! If you even try to suggest anything else, I truly believe the whole thing will burst into flames ... go away ...
+
+BA: Hey, I think we should tweak the flubbers so customer gets the report quicker.\
+IT: What?\
+BA: You know, flubbers ... increase them ... maybe ..?\
+IT: No ... please stop ...\
+BA: Flub...\
+IT: THERE IS NO SUCH THING AND YOU HAVE OBVIOUSLY NO IDEA HOW COMPUTER WORKS! If you even try to suggest anything else, I truly believe the whole thing will burst into flames ... go away ... far far away .. probably even kill yourself please ...\
+BA: What?!?\  
+IT: Nothing. I said nothing.
 
 (note: BA stands for a business analyst)
 
@@ -30,4 +33,4 @@ So yeah ... I had a fair share of discussions with mostly BAs, about how to do t
 
 I am really good at bad analogies. So I thought: „Hmm, what if I help those poor people and write a book, that would help them? Something like allegories, short stories, maybe with cute pictures, like children books have, so those poor poor BAs get at least a hint of what is actually happening?“. And here we are. 
 
-Let me present to you a collection of short stories and kind of a dictionary that in theory, could help you understand what the hack I am actually doing and why I am usually angry.
+Without further ado let me present to you a collection of short stories and kind of a dictionary that (in theory) could help you understand what the hack I am actually doing and why I am usually angry.
