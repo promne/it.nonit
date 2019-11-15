@@ -20,7 +20,7 @@ body {
   font-size: $base-font-size;
   line-height: $base-line-height;
   font-weight: 300;
-  color: $color-slate;
+  color: $color-black;
   -webkit-text-size-adjust: 100%;
 }
 
@@ -97,8 +97,8 @@ h4 {
 }
 
 blockquote {
-  color: lighten($color-slate, 30%);
-  border-left: 2px solid lighten($color-slate, 50%);
+  color: lighten($color-black, 30%);
+  border-left: 2px solid lighten($color-black, 50%);
   padding-left: $spacing-unit / 2;
   letter-spacing: -1px;
   font-style: italic;
@@ -136,7 +136,7 @@ hr {
   display: block;
   height: 1px;
   border: 0;
-  background-color: lighten($color-slate, 50%);
+  background-color: lighten($color-black, 50%);
   margin-bottom: $spacing-unit/2;
 }
 
