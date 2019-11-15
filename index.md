@@ -20,11 +20,11 @@ You know how this work:
 
 BA: Hey, I think we should tweak the flubbers so customer gets the report quicker.  
 IT: What?  
-BA: You know, flubbers ... increase them ... maybe ..?\
-IT: No ... please stop ...\
-BA: Flub...\
-IT: THERE IS NO SUCH THING AND YOU HAVE OBVIOUSLY NO IDEA HOW COMPUTER WORKS! If you even try to suggest anything else, I truly believe the whole thing will burst into flames ... go away ... far far away .. probably even kill yourself please ...\
-BA: What?!?\  
+BA: You know, flubbers ... increase them ... maybe ..?  
+IT: No ... please stop ...  
+BA: Flub...  
+IT: THERE IS NO SUCH THING AND YOU HAVE OBVIOUSLY NO IDEA HOW COMPUTER WORKS! If you even try to suggest anything else, I truly believe the whole thing will burst into flames ... go away ... far far away .. probably even kill yourself please ...  
+BA: What?!?    
 IT: Nothing. I said nothing.
 
 (note: BA stands for a business analyst)
