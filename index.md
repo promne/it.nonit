@@ -1,8 +1,10 @@
 ---
 layout: default
 home: true
-title: A book about IT for non-IT people
+title: Introduction
 ---
+
+# A book about IT for non-IT people
 
 Over the years I have been asked many times “Hey, what are you actually doing?”. The easy answer, that I am a software engineer and I usually do make a custom software, is not exactly captivating nor descriptive enough. 
 
