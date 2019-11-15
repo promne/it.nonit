@@ -1,6 +1,3 @@
-title: A book about IT for non-IT people
-description: Have you ever wondered what dark magic the famous IT is about?
-
 # Build settings
 baseurl:                /it.nonit
 url:                    https://promne.github.io
