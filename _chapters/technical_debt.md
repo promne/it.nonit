@@ -30,11 +30,6 @@ One day the bridge collapsed. Weak support, heavy statues, many people, rotten b
 
 
 Morale: 
-* Listen to your experts. If they raise concerns and they refer to technical debt, it’s usually something you should pay attention to. 
-* Trust judgement of your specialist. In the end - you do pay specialists for their expertise, so why would you ignore their assessment? Don’t think even for a second you understand what are the technical implications of your decisions. 
-* If you have concerns about cost, time, present those to your specialist and discuss options. 
-* Be ready that from time to time you will need to let them do things, that are not understandable to you.
-* If things go down, then it affects their reputation as well, keeping things nice and working is mutually beneficial. 
-* Ignorance might have fatal consequences.
+If you want to put more features on, you have to make sure the underlying structure is able to deal with the consequences.
 
 
